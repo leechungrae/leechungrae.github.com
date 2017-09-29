@@ -2,14 +2,33 @@
 
 ## 프로젝트
 
+현재까지 진행사항 들 올리는 중
+
+
+
+
+
 
 1. StarCraft1 AI
+
 -
 -
 
 2. Xellnaga3 
 
-3. 
+-
+-
+
+
+3. test
+	1.
+	2.
+	3.
+	4.
+
+
+testdnwdnsdkfsldkflskdfjl
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -44,9 +63,8 @@ Syntax highlighted code block
 ##  알고리즘
 
 
-1. _Italic_DPS
-_Italic_123123
-
+1. **어어어어어엉**
+_test_ 
 
 2. **Bold**BPS
 
@@ -55,5 +73,5 @@ _Italic_123123
 ## Support or Contact
 
 
-`Code`dkdkdkdkdkd
+'#include <stdio.h>'
 
