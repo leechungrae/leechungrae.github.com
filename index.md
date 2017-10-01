@@ -2,32 +2,53 @@
 
 ## 프로젝트
 
-현재까지 진행사항 들 올리는 중
-
-
-
-
-
-
 1. StarCraft1 AI
 
--
--
+	- XellnagaII
+ 	
+	- 연구실에서 진행한 C++ 룰베이스 기반의 스타AI 프로젝트
 
-2. Xellnaga3 
+2. Sarl Project
 
--
--
+	- Evacuation Simulation 
+	
+	- 퍼듀대학교 연수갔을 때 진행한 Agent 지향언어인 SARL와 JAVA GUI를 이용한 탈출 시뮬레이션구현
+	
+3. Likelion
+
+	- Lifelink
+	
+	- 멋쟁이사자처럼 4기에서 진행했던 Ruby를 활용한 역경매 형식의 버킷리스트구현 플랫폼
+	
+4. OpenCollege
+
+	- 너나연
+	
+	- 오픈컬리지 프로그램에서 진행했던 Ruby를 활용한 간단한 짝 짓기 프로젝트
+	
+	- HorrorTheSSD
+	
+	- 오픈컬리지에서 진행한 HTML사용한 간단한 시뮬레이션게임
+	
+5. 과제
+	- 공항연결게임
+	
+	- 심화프로그래밍설계에서 진행한 Python을 이용한 게임
+	
+	- 미사일게임
+	
+	- 프로그래밍언어에서 진행한 Python을 이용한 비행기게임
 
 
-3. test
-	1.
-	2.
-	3.
-	4.
+
+##  알고리즘
 
 
-testdnwdnsdkfsldkflskdfjl
+1. **어어어어어엉**
+_test_ 
+
+2. **Bold**BPS
+
 
 
 
@@ -58,15 +79,6 @@ Syntax highlighted code block
 
 
 ```
-
-
-##  알고리즘
-
-
-1. **어어어어어엉**
-_test_ 
-
-2. **Bold**BPS
 
 
 
